@@ -1,6 +1,5 @@
 # Regression Tree - ABC Grocery Task
 
-# Import required packages
 
 import pandas as pd
 import pickle
